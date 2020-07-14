@@ -63,8 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\HandleScript.cs" />
-    <Compile Include="Assets\Lecture1.cs" />
+    <Compile Include="Assets\Scenes\Lecture1\Scripts\HandleScript.cs" />
+    <Compile Include="Assets\Scenes\Lecture1\Scripts\Lecture1.cs" />
+    <Compile Include="Assets\Scenes\Lecture2\Scripts\Lecture2.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
